@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container{
+  width: 100%;
+}
+.card{
+  width: 250px;
+  height: 250px;
+  background-color: bisque;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

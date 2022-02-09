@@ -1,0 +1,1 @@
+export {textCute} from './textCute'
