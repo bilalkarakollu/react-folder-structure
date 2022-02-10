@@ -1,1 +1,1 @@
-export {textCute} from './textCute'
+export {textCut} from './textCut'
